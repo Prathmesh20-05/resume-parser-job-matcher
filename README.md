@@ -47,7 +47,7 @@ resume-parser-job-matcher/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Prathmesh20-05/resume-parser-job-matcher
    cd resume-parser-job-matcher
    ```
 
@@ -87,12 +87,6 @@ resume-parser-job-matcher/
 - `GET /api/resumes` - Get all resumes
 - `GET /api/jobs` - Get all jobs
 
-## Development Status
 
-🚧 **In Development** - Following step-by-step tutorial
-
-## License
-
-MIT
 
 
